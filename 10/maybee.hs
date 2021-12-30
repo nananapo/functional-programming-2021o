@@ -1,0 +1,1 @@
+data Maybee a = Noothing | Juust a   deriving (Eq,Ord)
